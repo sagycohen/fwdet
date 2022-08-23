@@ -2,6 +2,7 @@
 Now supporting:
 	- >= ArcGis 10.5
 	- ArcGis Pro
+	- Google Earth Engine
 
 # Floodwater Depth Estimation Tool
 The Floodwater Depth Estimation Tool (FwDET) calculates floodwater
